@@ -1,0 +1,23 @@
+body{
+    background-image:url('ph6.jpg') ;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+}
+img{
+    float: left;
+}
+
+button{
+    margin-bottom: 10px;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: slategrey;
+    cursor: pointer;
+    
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px; 
+}

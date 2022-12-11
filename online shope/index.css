@@ -1,0 +1,29 @@
+.main{
+    width:40%;
+    box-shadow: 10px 10px 20px silver;
+    margin-top: 20px;
+    padding: 10px;
+}
+input{
+    margin-bottom: 10px;
+    width: 40%;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 10px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: slategrey;
+    cursor: pointer;
+}
+body{
+    background-image:url('ph.jpg') ;
+    background-position: center;
+}
+p{
+    font-size: 15px;
+    font-weight: bold;
+}

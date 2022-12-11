@@ -1,0 +1,23 @@
+.main{
+    width:40%;
+    height: 50px;
+    box-shadow: 100x 100px 20px silver;
+    padding: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+a{
+    margin: 10px;
+    padding : 5px;
+    cursor : pointer;
+    
+    
+}
+body{
+    background-image:url('ph.jpg') ;
+}
+p{
+    font-size:15px ;
+    font-weight: bold;
+}
